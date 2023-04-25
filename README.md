@@ -1,4 +1,4 @@
-Handwritten Digit Recognition
+#Handwritten Digit Recognition
 This is a convolutional neural network (CNN) model for recognizing handwritten digits. The architecture of this model is as follows:
 
 Conv2D layer with input shape of (28,28,1), 32 filters, kernel size of (5,5), padding set to "same", and activation function set to ReLU.
