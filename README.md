@@ -1,4 +1,4 @@
-##Handwritten Digit Recognition##
+__Handwritten Digit Recognition__
 
 This is a convolutional neural network (CNN) model for recognizing handwritten digits. The architecture of this model is as follows:
 
